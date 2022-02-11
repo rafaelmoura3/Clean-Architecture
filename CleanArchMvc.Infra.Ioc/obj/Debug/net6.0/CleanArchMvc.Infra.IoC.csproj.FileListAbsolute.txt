@@ -1,0 +1,12 @@
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc.Infra.IoC\bin\Debug\net6.0\CleanArchMvc.Infra.IoC.deps.json
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc.Infra.IoC\bin\Debug\net6.0\CleanArchMvc.Infra.IoC.dll
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc.Infra.IoC\bin\Debug\net6.0\ref\CleanArchMvc.Infra.IoC.dll
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc.Infra.IoC\bin\Debug\net6.0\CleanArchMvc.Infra.IoC.pdb
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc.Infra.IoC\obj\Debug\net6.0\CleanArchMvc.Infra.IoC.csproj.AssemblyReference.cache
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc.Infra.IoC\obj\Debug\net6.0\CleanArchMvc.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc.Infra.IoC\obj\Debug\net6.0\CleanArchMvc.Infra.IoC.AssemblyInfoInputs.cache
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc.Infra.IoC\obj\Debug\net6.0\CleanArchMvc.Infra.IoC.AssemblyInfo.cs
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc.Infra.IoC\obj\Debug\net6.0\CleanArchMvc.Infra.IoC.csproj.CoreCompileInputs.cache
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc.Infra.IoC\obj\Debug\net6.0\CleanArchMvc.Infra.IoC.dll
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc.Infra.IoC\obj\Debug\net6.0\ref\CleanArchMvc.Infra.IoC.dll
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc.Infra.IoC\obj\Debug\net6.0\CleanArchMvc.Infra.IoC.pdb

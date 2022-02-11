@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ek4MMgM1BAwvG2/Vn2I9SpcQ+G1hz8KQfNTz57PtTb7lbJADyg+jup1kLNH30scs2jIYIks4S43V/pNTc6/lEw==",
+  "dgSpecHash": "WBagqT1SCAHqKPF8YjxApgTmGC/lpnEbYdKyExnDlDn0wqESW0AE/mDK4w3IJU4wdWfkvRLgzsumsvsmegmVHg==",
   "success": true,
-  "projectFilePath": "D:\\Dev_Semana OmniStack\\Clean Architecture  C#\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+  "projectFilePath": "D:\\Dev_Semana OmniStack\\Clean-Architecture\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

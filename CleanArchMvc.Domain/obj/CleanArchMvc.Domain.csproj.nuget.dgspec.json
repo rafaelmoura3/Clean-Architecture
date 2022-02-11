@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev_Semana OmniStack\\Clean Architecture  C#\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {}
+    "D:\\Dev_Semana OmniStack\\Clean-Architecture\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Dev_Semana OmniStack\\Clean Architecture  C#\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+    "D:\\Dev_Semana OmniStack\\Clean-Architecture\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev_Semana OmniStack\\Clean Architecture  C#\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectUniqueName": "D:\\Dev_Semana OmniStack\\Clean-Architecture\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "projectName": "CleanArchMvc.Domain",
-        "projectPath": "D:\\Dev_Semana OmniStack\\Clean Architecture  C#\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectPath": "D:\\Dev_Semana OmniStack\\Clean-Architecture\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "packagesPath": "C:\\Users\\megas\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev_Semana OmniStack\\Clean Architecture  C#\\CleanArchMvc.Domain\\obj\\",
+        "outputPath": "D:\\Dev_Semana OmniStack\\Clean-Architecture\\CleanArchMvc.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\megas\\AppData\\Roaming\\NuGet\\NuGet.Config",

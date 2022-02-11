@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iIhSIPJ9URN6sL8oxUPFbhjotiS/wbQPWaq6Uw19v1V+uv6P0Q3Ers/VgF4EUJyfsIU9P6xCMa1cIrsQRj6R9A==",
+  "dgSpecHash": "PN3VlM4bEVMdJ1y7VRE3hDN4pRYyE2KbldPBMmicf+8GmLtI6SJqB/QU7Xdzhj4H6la5Vh+SgQmtNCLtD9Ji2g==",
   "success": true,
-  "projectFilePath": "D:\\Dev_Semana OmniStack\\Clean Architecture  C#\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
+  "projectFilePath": "D:\\Dev_Semana OmniStack\\Clean-Architecture\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
