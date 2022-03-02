@@ -362,3 +362,4 @@ D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\D
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\ref\CleanArchMvc.WebUI.dll
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.pdb
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.genruntimeconfig.cache
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\staticwebassets\CleanArchMvc.WebUI.StaticWebAssets.xml
