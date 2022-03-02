@@ -20,7 +20,12 @@
       "ProjectGuid": "c0135b9e-451d-4f44-aed2-d5d484fd9550",
       "DisplayName": "CleanArchMvc.Infra.Data",
       "ColorIndex": 3
+    },
+    "adfcff64-9c9a-40e1-a4c7-75b4b17a1724": {
+      "ProjectGuid": "adfcff64-9c9a-40e1-a4c7-75b4b17a1724",
+      "DisplayName": "CleanArchMvc.Domain",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }
