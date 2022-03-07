@@ -1,16 +1,21 @@
-using System.Collections.Generic;
-using System.Threading.Tasks;
 using CleanArchMvc.Domain.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace CleanArchMvc.Domain.Interfaces
 {
     public interface IProductRepository
     {
-       Task<IEnumerable<Product>> GetProductsAsync();
-         Task<Category> GetById(int? id);
+        Task<IEnumerable<Product>> GetProductsAsync();
+        Task<Product> GetByIdAsync(int? id);
 
-         Task<Category> Create(Category category);
-         Task<Category> Remove(Category category);
-         Task<Category> Update(Category category); 
+        Task<Product> GetProductCategoryAsync(int? id);
+
+        Task<Product> CreateAsync(Product product);
+        Task<Product> UpdateAsync(Product product);
+        Task<Product> RemoveAsync(Product product);
     }
 }

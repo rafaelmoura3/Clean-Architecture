@@ -2,7 +2,7 @@ using System.Collections.Immutable;
 using CleanArchMvc.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace CleanArchMvc.Infra.Ioc.Context
+namespace CleanArchMvc.Infra.Data.Context
 {
     public class ApplicationDbContext : DbContext
     {

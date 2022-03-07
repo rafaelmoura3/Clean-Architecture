@@ -17,3 +17,6 @@ D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Infra.Ioc\o
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.dll
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\ref\CleanArchMvc.Infra.Ioc.dll
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.pdb
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net5.0\CleanArchMvc.Infra.Ioc.runtimeconfig.json
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net5.0\CleanArchMvc.Infra.Ioc.runtimeconfig.dev.json
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net5.0\CleanArchMvc.Infra.Ioc.genruntimeconfig.cache
