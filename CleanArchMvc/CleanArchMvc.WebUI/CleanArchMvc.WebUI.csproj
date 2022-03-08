@@ -2,11 +2,12 @@
 	<PropertyGroup>
 		<TargetFramework>net5.0</TargetFramework>
 		<CopyRefAssembliesToPublishDirectory>false</CopyRefAssembliesToPublishDirectory>
+		<StartupObject></StartupObject>
 	</PropertyGroup>
 	<ItemGroup>
-		<PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="5.0.14"/>
+		<PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="5.0.14" />
 	</ItemGroup>
 	<ItemGroup>
-		<ProjectReference Include="..\CleanArchMvc.Infra.Ioc\CleanArchMvc.Infra.Ioc.csproj"/>
+		<ProjectReference Include="..\CleanArchMvc.Infra.Ioc\CleanArchMvc.Infra.Ioc.csproj" />
 	</ItemGroup>
 </Project>

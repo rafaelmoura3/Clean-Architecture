@@ -1,0 +1,12 @@
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Domain\bin\Release\net5.0\CleanArchMvc.Domain.deps.json
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Domain\bin\Release\net5.0\CleanArchMvc.Domain.dll
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Domain\bin\Release\net5.0\ref\CleanArchMvc.Domain.dll
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Domain\bin\Release\net5.0\CleanArchMvc.Domain.pdb
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Release\net5.0\CleanArchMvc.Domain.csproj.AssemblyReference.cache
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Release\net5.0\CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Release\net5.0\CleanArchMvc.Domain.AssemblyInfoInputs.cache
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Release\net5.0\CleanArchMvc.Domain.AssemblyInfo.cs
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Release\net5.0\CleanArchMvc.Domain.csproj.CoreCompileInputs.cache
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Release\net5.0\CleanArchMvc.Domain.dll
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Release\net5.0\ref\CleanArchMvc.Domain.dll
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Release\net5.0\CleanArchMvc.Domain.pdb

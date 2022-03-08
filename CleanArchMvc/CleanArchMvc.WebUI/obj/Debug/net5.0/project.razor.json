@@ -15624,18 +15624,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Dev_Semana OmniStack\\Clean-Architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Dev_Semana OmniStack\\Clean-Architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Dev_Semana OmniStack\\Clean-Architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "d:\\Dev_Semana OmniStack\\Clean-Architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\Views\\Categories\\Index.cshtml",
+      "TargetPath": "Views\\Categories\\Index.cshtml",
       "FileKind": "mvc"
     },
     {

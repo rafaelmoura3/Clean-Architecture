@@ -1,4 +1,6 @@
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.deps.json
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.runtimeconfig.json
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.runtimeconfig.dev.json
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.dll
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\ref\CleanArchMvc.Infra.Data.dll
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
@@ -13,6 +15,4 @@ D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.dll
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\ref\CleanArchMvc.Infra.Data.dll
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
-D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.runtimeconfig.json
-D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.runtimeconfig.dev.json
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.genruntimeconfig.cache

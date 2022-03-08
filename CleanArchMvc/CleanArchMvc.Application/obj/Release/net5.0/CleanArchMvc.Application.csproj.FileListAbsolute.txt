@@ -1,0 +1,15 @@
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Application\bin\Release\net5.0\CleanArchMvc.Application.deps.json
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Application\bin\Release\net5.0\CleanArchMvc.Application.dll
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Application\bin\Release\net5.0\ref\CleanArchMvc.Application.dll
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Application\bin\Release\net5.0\CleanArchMvc.Application.pdb
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Application\bin\Release\net5.0\CleanArchMvc.Domain.dll
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Application\bin\Release\net5.0\CleanArchMvc.Domain.pdb
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Release\net5.0\CleanArchMvc.Application.csproj.AssemblyReference.cache
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Release\net5.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Release\net5.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Release\net5.0\CleanArchMvc.Application.AssemblyInfo.cs
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Release\net5.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Release\net5.0\CleanArchMvc.Application.csproj.CopyComplete
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Release\net5.0\CleanArchMvc.Application.dll
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Release\net5.0\ref\CleanArchMvc.Application.dll
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Release\net5.0\CleanArchMvc.Application.pdb
