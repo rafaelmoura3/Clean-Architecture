@@ -29,7 +29,9 @@ namespace CleanArchMvc.Infra.Ioc
             services.AddScoped<ICategoryService, CategoryService>();
             services.AddAutoMapper(typeof(DomainToDTOMappingProfile));
 
-           
+            var myhandlers = AppDomain.CurrentDomain.Load("CleanArchMvc.Application");
+            services.AddMediatR(myhandlers);
+
             return services;
         }
     }

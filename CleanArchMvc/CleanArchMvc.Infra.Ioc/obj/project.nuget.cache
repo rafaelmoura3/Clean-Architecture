@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oP5VwxF5H77QzmWCkUGrCwY420QkQVxw+UCuHWvYkaX1hw5zpZgLMA2zonmNq6N8su2xXM7eSanslSuCRhnngA==",
+  "dgSpecHash": "1pYafmCXUhdPrN3oPm3yW1MO/f055CVjqQaERG3z7wemnXcATQT7ueaUZ8PxBFJVMii9NmmDd0uooxXkJwh7RA==",
   "success": true,
   "projectFilePath": "d:\\Dev_Semana OmniStack\\Clean-Architecture\\CleanArchMvc\\CleanArchMvc.Infra.Ioc\\CleanArchMvc.Infra.Ioc.csproj",
   "expectedPackageFiles": [

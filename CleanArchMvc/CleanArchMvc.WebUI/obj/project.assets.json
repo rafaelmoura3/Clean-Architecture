@@ -1801,7 +1801,8 @@
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "AutoMapper": "11.0.1",
-          "CleanArchMvc.Domain": "1.0.0"
+          "CleanArchMvc.Domain": "1.0.0",
+          "MediatR": "10.0.1"
         },
         "compile": {
           "bin/placeholder/CleanArchMvc.Application.dll": {}
@@ -6661,8 +6662,4 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
-      }
-    }
-  }
-}
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGra
