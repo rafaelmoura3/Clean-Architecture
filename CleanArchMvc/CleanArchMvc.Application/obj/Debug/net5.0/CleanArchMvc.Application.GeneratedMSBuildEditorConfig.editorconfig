@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = CleanArchMvc.Application
-build_property.ProjectDir = D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Application\
+build_property.ProjectDir = d:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.Application\

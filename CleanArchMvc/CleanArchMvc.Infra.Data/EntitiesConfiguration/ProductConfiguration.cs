@@ -1,4 +1,4 @@
-using CleanArchMvc.Domain.Entities;
+﻿using CleanArchMvc.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
@@ -15,7 +15,7 @@ namespace CleanArchMvc.Infra.Data.EntitiesConfiguration
             builder.Property(p => p.Price).HasPrecision(10, 2);
 
             builder.HasOne(e => e.Category).WithMany(e => e.Products)
-                .HasForeignKey(e => e.CategoryId);//Fk
+                .HasForeignKey(e => e.CategoryId);
         }
     }
 }

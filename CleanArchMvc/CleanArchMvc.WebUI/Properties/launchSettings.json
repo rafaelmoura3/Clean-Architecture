@@ -3,8 +3,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:14468",
-      "sslPort": 44320
+      "applicationUrl": "http://localhost:29010",
+      "sslPort": 44342
     }
   },
   "profiles": {
@@ -18,7 +18,6 @@
     },
     "CleanArchMvc.WebUI": {
       "commandName": "Project",
-      "hotReloadProfile": "aspnetcore",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
       "applicationUrl": "https://localhost:5001;http://localhost:5000",
