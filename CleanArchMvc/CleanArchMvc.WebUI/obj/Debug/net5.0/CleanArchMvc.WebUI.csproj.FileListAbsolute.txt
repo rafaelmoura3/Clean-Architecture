@@ -729,7 +729,6 @@ D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\D
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.OpenApi.dll
-D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -828,3 +827,4 @@ D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\D
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\ref\CleanArchMvc.WebUI.dll
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.pdb
 D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.genruntimeconfig.cache
+D:\Dev_Semana OmniStack\Clean-Architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
