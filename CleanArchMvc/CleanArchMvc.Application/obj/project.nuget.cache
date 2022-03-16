@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kpF4BsKpWemGXmfAywX5OBO1Fzor2hKrg44Gd69VRZM2zkeRWRMFq0RglML2WZY6Xh3TPr5ibYtbiOJHCUVh9g==",
+  "dgSpecHash": "+uQIoPguouJBLupl7M4aMatlsLCbfoaM5m6cO9+J98zwMHvyqDAZfhzfvfRszNMpUM2Y7BubGYlOcs6qh67vqw==",
   "success": true,
-  "projectFilePath": "D:\\Dev_Semana OmniStack\\Clean-Architecture\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+  "projectFilePath": "d:\\Dev_Semana OmniStack\\Clean-Architecture\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael Moura\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Rafael Moura\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",

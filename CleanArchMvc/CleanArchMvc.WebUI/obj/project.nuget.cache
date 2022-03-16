@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gdgW8pmVdSgft54iqc8L+ZujaAJpK4JEmxADoDporqUF2Dq/iUOzV0TDPFKThoyJ/e1Rr2169Js5KkNaOK50jw==",
+  "dgSpecHash": "LCQGlWw0Z5bm97ACYqcx9kkXlOQqsCEvRo12Tln5gXZ1MLKkp6fTioHbR7XtfqdFeJQB8IvOBEKSrCDdR9+T+w==",
   "success": true,
-  "projectFilePath": "D:\\Dev_Semana OmniStack\\Clean-Architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
+  "projectFilePath": "d:\\Dev_Semana OmniStack\\Clean-Architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael Moura\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Rafael Moura\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

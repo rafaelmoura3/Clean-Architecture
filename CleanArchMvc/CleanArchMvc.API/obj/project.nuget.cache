@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sVx1EOx9j9T+BK7A7zVxK1o5leFqIIDXP3Z7rVT6WskH8rXaQ7u61uR82HDGcKOSIytsT2oiZuGPHZIqgK0Tyg==",
+  "dgSpecHash": "6MHVlvFJIF080AF1UQqWyLbxmRyaSZKQx+mHkKbqgk/Kll6SlH3esc1STQHh3CAvgLF2QyQr8reVvVBmwPfMIw==",
   "success": true,
-  "projectFilePath": "D:\\Dev_Semana OmniStack\\Clean-Architecture\\CleanArchMvc\\CleanArchMvc.API\\CleanArchMvc.API.csproj",
+  "projectFilePath": "d:\\Dev_Semana OmniStack\\Clean-Architecture\\CleanArchMvc\\CleanArchMvc.API\\CleanArchMvc.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael Moura\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Rafael Moura\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
